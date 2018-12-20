@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:cascadia-systems-institute/cascadia-systems-institute.github.io.git
+	branch = master
