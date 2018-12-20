@@ -15,6 +15,7 @@ googleAnalytics = ""
     accentBottom = "#006200"
     showBorder = true
     backgroundColor = "white"
+    MathJax = false
     font = "Raleway" # should match the name on Google Fonts!
     #highlight = true
     #highlightStyle = "solarized-dark"
