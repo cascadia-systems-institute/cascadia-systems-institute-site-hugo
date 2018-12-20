@@ -1,0 +1,19 @@
+{{ partial "header" . }}
+
+<main>
+
+    <div class="intro">
+
+		<img src="img/csi-simple-text-logo-50px.png" />
+
+        {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
+
+        <h1>{{ .Site.Title }}</h1>
+
+        <h2>{{ markdownify .Site.Params.Description }}</h2>
+
+    </div>
+
+</main>
+
+{{ partial "footer" . }}

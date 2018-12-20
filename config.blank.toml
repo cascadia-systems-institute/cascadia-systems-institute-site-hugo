@@ -1,0 +1,4 @@
+baseURL = "https://cascadia-systems.institute/"
+languageCode = "en-us"
+title = "Cascadia Systems Institute"
+theme = "blank"
