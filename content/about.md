@@ -8,24 +8,12 @@ draft: true
 
 The Cascadia Systems Institute is an academic research organization which seeks to make practical improvements to the systems which make up our current civilization.
 
-### Vision Statement
+The 21st century is a time of great change and accelerating complexity in social, political, economic, technological, and ecological/climatic systems. These systems are coupled in such a way that changes in any one system or subsystem may result in changes, good or bad, to any or all of the connected systems.  This is a fundamental property of Nature, and an understanding of this interdependency allows individuals and organizations to make decisions that result in more dierable outcomes for all of the affected systems and parties.
 
-We have a vision of a civilization where systems are put in place which sustainably cares for all while allowing innovation to continue.
+*Cascadia Systems Institute (CSI)* is motivated by what we believe are the fundamental challenges facing contemporary human society; the paradigm shift of the "cyber-physica is motivated by what we believe are the fundamental challenges facing contemporary human society: the paradigm shift of the "cyber-physical revolution", anthropogentic climate change, the transition from fossil fuel to renewable energy, a dysfunctional global economic system, political polarization and trends toward authoritarianism, and the interplay of these dynamic elements.
 
-### Mission Statement
+Within such a chaotic context, CSI is oriented around two broad goals:
 
-We have a mission to build a bioregional community which is centered on systems science and systems thinking.
+1. Fostering the paradigm shift from reductionist (mechanical) thought and individual ethics, to systemic (biological) thought and community ethics.
 
-### Values and Principles
-
-#### Some Principle
-
-#### Some Other Principle
-
-### Leadership
-
-#### Pete Roolf
-
-#### Roderick Campbell
-
-#### Shawn Marincas
+2. Contributing towards the balancing of human systems with their environmental suprasystems.

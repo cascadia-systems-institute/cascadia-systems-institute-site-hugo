@@ -1,10 +1,10 @@
 ---
-title: "Projects"
+title: "Research"
 date: 2018-12-19T18:45:48-08:00
 draft: true
 ---
 
-## Projects
+## Research
 
 ### Media and Information
 
