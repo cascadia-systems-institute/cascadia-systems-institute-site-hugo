@@ -4,7 +4,9 @@ date: 2018-12-19T17:51:03-08:00
 draft: false
 ---
 
-## The CSI Team
+## CSI Team
+
+---
 
 {{< figure src="/img/team-roderick.jpg" width="140" >}}
 ### Roderick Campbell

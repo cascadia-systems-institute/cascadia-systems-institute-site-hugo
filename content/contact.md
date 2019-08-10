@@ -6,4 +6,6 @@ draft: false
 
 ## Contact
 
+---
+
 Please send us an email <contact@cascadia-systems.institute>

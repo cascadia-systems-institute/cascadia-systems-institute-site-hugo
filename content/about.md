@@ -6,6 +6,8 @@ draft: false
 
 ## Cascadia Systems Institute
 
+---
+
 The Cascadia Systems Institute is an academic research organization which seeks to make practical improvements to the systems which make up our current civilization.
 
 The 21st century is a time of great change and accelerating complexity in social, political, economic, technological, and ecological/climatic systems. These systems are coupled in such a way that changes in any one system or subsystem may result in changes, good or bad, to any or all of the connected systems.  This is a fundamental property of Nature, and an understanding of this interdependency allows individuals and organizations to make decisions that result in more dierable outcomes for all of the affected systems and parties.
