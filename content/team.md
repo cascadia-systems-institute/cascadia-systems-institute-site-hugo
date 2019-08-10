@@ -6,6 +6,7 @@ draft: false
 
 ## The CSI Team
 
+{{< figure src="/img/team-roderick.jpg" width="140" >}}
 ### Roderick Campbell
 
 #### Education
@@ -27,6 +28,9 @@ draft: false
 * Public Policy & Administration
 * Complex Problem Solving
 
+---
+
+{{< figure src="/img/team-roolf.jpg" width="140" >}}
 ### Peter Roolf
 
 #### Education
@@ -47,6 +51,9 @@ draft: false
 * Resilience and Sustainability
 * Information Theory; Thermodynamics; Cybernetics
 
+---
+
+{{< figure src="/img/team-goose.png" width="140" >}}
 ### Shawn Marincas
 
 #### Education
