@@ -80,3 +80,5 @@ googleAnalytics = ""
 #    url = "https://www.stackoverflow.com/username/"
 #    name = "stack-overflow"
 #    weight = 5
+
+ignoreFiles = [ "^\\." ]

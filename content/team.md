@@ -27,7 +27,7 @@ draft: false
 * Public Policy & Administration
 * Complex Problem Solving
 
-### Pete Roolf
+### Peter Roolf
 
 #### Education
 * PhD Student, Systems Science *(Portland State University)*
